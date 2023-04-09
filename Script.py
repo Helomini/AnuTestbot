@@ -194,9 +194,9 @@ Please Check Spelling</b>"""
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-<b>🏷 Title</b> : <code>{title}</code>
-<b>📀 Quality</b> : <code>{quality}</code>
-<b>🔊 Audio</b> : <code>{audio}</code>
+<b>🏷 Title : </b> <code>{title}</code>
+<b>📀 Quality : </b> <code>{quality}</code>
+<b>🔊 Audio : </b> <code>{audio}</code>
 
 
 🔺ᴄʜᴀɴɴᴇʟ : @anurinomoviez
