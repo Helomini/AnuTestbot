@@ -193,8 +193,11 @@ Please Check Spelling</b>"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>🏷 Title</b>: <a href={url}>{title}</a>
-<b>🔊 Audio</b> : <code>{languages}</code>
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
+<b>🏷 Title</b> : <code>{title}</code>
+<b>📀 Quality</b> : <code>{quality}</code>
+<b>🔊 Audio</b> : <code>{audio}</code>
+
 
 🔺ᴄʜᴀɴɴᴇʟ : @anurinomoviez
 🔺️sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @anurinomovie
