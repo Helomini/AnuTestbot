@@ -210,15 +210,12 @@ Note:- आपकी Request 24 घंटे के अंदर पुरी क
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-<b> 🏷 Title : </b> "{file.file_name}"
-<b> 📀 Quality : </b> "{get_size(file.file_size)}"
-
+<b> File size : </b> <code>{file_size}</code>
 <b>
-╭───────      • ◆ •    ───────╮
-♦️ ᴄʜᴀɴɴᴇʟ : @anurinomoviez.      ♦️
-♦️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @anurinomovie ♦️
-╰───────      • ◆ •    ───────╯
-</b>"""
+╭───────    • ◆ •    ───────╮
+🔺ᴄʜᴀɴɴᴇʟ : @anurinomoviez
+🔺sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @anurinomovie
+╰───────    • ◆ •    ───────╯</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Your Request Movie Name- {query}
